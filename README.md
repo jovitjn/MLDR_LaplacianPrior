@@ -1,2 +1,2 @@
 # MLDR_LaplacianPrior
-Developing a MLDR beamforming algorithm modeling the signal with a Laplacian Prior
+This repository contains MATLAB codes developed to simulate the concepts and methods outlined in the research paper "Acoustic Beamforming using Maximum Likelihood Criteria with Laplacian Model of the Desired Signal". The codes simulate various beamforming techniques including the Maximum Power Distortionless Response (MPDR) beamformer and Maximum Likelihood Distortionless Response (MLDR) beamformer with both Complex Gaussian (CG) and Laplacian priors. These simulations are designed to evaluate the performance of acoustic beamforming in environments with multiple speakers and noise.
