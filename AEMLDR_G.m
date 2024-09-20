@@ -13,7 +13,7 @@ s2 = s2(1:64000,:);
 s = [s1, s2];
 %--------------------------------------------------
 
-N = 7; % number of microphonrs
+N = 7; % number of microphones
 uca_design = uca_2d(N, 0.1);
 uca_design.element_positions(3,:) = 0; 
 L_dim = [10 10 4];
